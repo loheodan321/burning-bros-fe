@@ -3,7 +3,6 @@ import { Layout } from "antd";
 import type { Metadata } from "next";
 import { Inter, Oswald } from "next/font/google";
 import "./globals.css";
-const { Content } = Layout;
 
 const inter = Inter({ subsets: ["latin"] });
 
